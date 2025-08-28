@@ -73,7 +73,7 @@ react-profile-dashboard/
 git clone https://github.com/Prafullahire/React-Fronted-Task
 
 Navigate to the project folder:
-cd advance_react_task
+cd advance_react-task
 
 
 Install dependencies:
