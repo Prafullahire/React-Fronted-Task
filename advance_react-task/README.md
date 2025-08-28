@@ -70,10 +70,11 @@ react-profile-dashboard/
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/<Prafullahire>/React-Fronted-Task.git
+git clone https://github.com/Prafullahire/React-Fronted-Task
 
 Navigate to the project folder:
-cd React-Fronted-Task
+cd advance_react_task
+
 
 Install dependencies:
 npm install
